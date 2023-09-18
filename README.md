@@ -1,2 +1,2 @@
 # Justasimpleweb
-Same as repository 
+Simple web, also my first web idk
